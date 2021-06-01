@@ -1,0 +1,28 @@
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+                  DIGITAL CLOCK BY SABIL
+
+
+Digital Clock ini adalah software penampil jam yang dibuat untuk 
+percobaan dan pembelajaran sabil dalam memrogram Python script..
+
+Untuk menginstall dibutuhkan Spesifikasi :
+
+ -Directx 9.
+ -
+ -Windows 7 ke atas.
+ -
+ -Ram 100mb.
+ -
+ -proceccor Intel Atom ke atas.
+
+
+Jika ada kegagalan atau eror saat menginstall 
+sebaik nya matikan antivirus yang anda gunakan.
+
+Karena kemungkinan software ini terdeteksi sebagai virus oleh antivirus anda.
+
+Walaupun begitu software ini tetap aman digunakan dan tidak mengandung virus atau maleware.
+
+Copyright 2021
